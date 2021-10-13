@@ -1,0 +1,5 @@
+node_modules
+dist
+debug.log
+.idea/workspace.xml
+\.idea/atlassian-ide-plugin\.xml
