@@ -1,0 +1,17 @@
+<div class="main-panel">
+  <nav class="navbar navbar-inverse navbar-expand-lg navbar-primary bg-primary">
+    <div class="navbar-header">
+      <div class="navbar-menu-btn" ng-click="$ctrl.slideOutMenuIsOpen = !$ctrl.slideOutMenuIsOpen">
+        <span class="fal fa-bars"></span>
+      </div>
+      <div class="navbar-header-title">Medical-Objects Test Shop</div>
+    </div>
+  </nav>
+  <div class="row car-row">
+    <div class="col-lg-4" style="text-align:center;padding:0;" ng-repeat="car in $ctrl.cars">
+      <div class="list-group-item img-wrapper" text-align>
+        <img class="img-fluid-custom" ng-src="{{ car.image }}">
+      </div>
+    </div>
+  </div>
+</div>

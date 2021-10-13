@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "title": "Ferrari 458 Italia",
+        "price": 910.50,
+        "description": "Red Ferrari 458 Italia",
+        "image": "https://images.pexels.com/photos/4651251/pexels-photo-4651251.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 2,
+        "title": "Mercedes-Benz",
+        "price": 220.32,
+        "description": "Yellow Mercedes-Benz",
+        "image": "https://images.pexels.com/photos/2365572/pexels-photo-2365572.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 3,
+        "title": "Lamborghini Aventador",
+        "price": 367.55,
+        "description": "Orange Lamborghini Aventador",
+        "image": "https://images.pexels.com/photos/3972755/pexels-photo-3972755.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 4,
+        "title": "Mercedes-Benz Amg Gt Coupe",
+        "price": 378.65,
+        "description": "Silver Mercedes-Benz Amg Gt Coupe",
+        "image": "https://images.pexels.com/photos/241316/pexels-photo-241316.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 5,
+        "title": "Porshe 911",
+        "price": 584.15,
+        "description": "Red Porshe 911",
+        "image": "https://images.pexels.com/photos/5692896/pexels-photo-5692896.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 6,
+        "title": "Lamborghini",
+        "price": 840.33,
+        "description": "Black Lamborghini",
+        "image": "https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 7,
+        "title": "Mercedes Benz Coupe Convertible",
+        "price": 215.57,
+        "description": "Silver Mercedes Benz Coupe Convertible",
+        "image": "https://images.pexels.com/photos/217326/pexels-photo-217326.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 8,
+        "title": "Lamborghini",
+        "price": 960.62,
+        "description": "Green Lamborghini",
+        "image": "https://images.pexels.com/photos/5730166/pexels-photo-5730166.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 9,
+        "title": "Ferrari 458 Italia ",
+        "price": 830.62,
+        "description": "Yellow Ferrari 458 Italia ",
+        "image": "https://images.pexels.com/photos/5759866/pexels-photo-5759866.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]
+
+

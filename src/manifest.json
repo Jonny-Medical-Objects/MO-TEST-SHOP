@@ -1,0 +1,10 @@
+{
+  "name": "Medical-Objects Test Shop",
+  "short_name": "MO SHOP",
+  "theme_color": "#3073AE",
+  "background_color": "#FFF",
+  "icons": [
+  ],
+  "display": "standalone",
+  "orientation": "portrait"
+}

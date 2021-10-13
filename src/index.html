@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html ng-strict-di>
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <title>Medical-Objects Test Shop</title>
+
+  <!-- Android / Chrome -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="mobile-web-app-capable" content="yes">
+  <!-- iOS / Safari -->
+  <meta name="apple-mobile-web-app-title" content="MO Test Shop">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
+  <script type="text/javascript">
+    document.write("<script type='text/javascript' src='bootloader.js?v=" + Date.now() + "'><\/script>");
+  </script>
+
+  <style type="text/css">
+    body {
+      background-color: #f6f6f6;
+    }
+
+    .no-script {
+      font-family: Verdana, Geneva, sans-serif;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+    }
+
+    .no-script-text {
+      background-color: red;
+      color: white;
+      font-size: 20px;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <noscript>
+    <div class="no-script">
+      <div class="no-script-text">
+        JavaScript is currently disabled - Please enable JavaScript to use this application.
+      </div>
+    </div>
+  </noscript>
+
+  <!--  Loading indicator with inline style so we don't have to wait for css to be loaded-->
+  <div id="loader" style="font-family: Verdana, sans-serif; padding-top: 40px; text-align: center;">
+    <em>Loading Medical-Objects Test Shop...</em>
+  </div>
+
+  <ui-view></ui-view>
+</body>
+</html>
