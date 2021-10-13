@@ -46,7 +46,7 @@ Complete as many of the following tasks as you can. Skip any tasks which you can
 
 Add any issues/comments/feedback you have to the readme.md file.
 
-Once done, please add jonny@medicalobjects.com as a collaborator to your cloned private repository, and notify us of the location.
+Once done, please add jonny@medicalobjects.com as a collaborator to your cloned private repository and notify us.
 
 Thank you for your time and enjoy!
 
