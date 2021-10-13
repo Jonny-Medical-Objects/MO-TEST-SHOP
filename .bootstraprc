@@ -1,0 +1,14 @@
+# Config file for bootstrap-loader
+# https://github.com/shakacode/bootstrap-loader
+
+bootstrapVersion: 4
+styles: true
+# Only included the scripts we actually use to keep bundle size down
+scripts:
+  dropdown: true
+styleLoaders: [ 'style-loader', 'css-loader', 'sass-loader' ]
+preBootstrapCustomizations: ./src/app/app.bootstrap-variables.scss
+appStyles: ./src/app/app.bootstrap-theme.scss
+
+# Icons configured in app.theme-variables
+useCustomIconFontPath: true
