@@ -1,0 +1,5 @@
+app/**/*
+dist/**/*
+src/assets/**/*
+src/bootloader.js
+webpack.*.*
