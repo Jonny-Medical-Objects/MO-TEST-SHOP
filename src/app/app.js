@@ -10,9 +10,7 @@ const requires = [
   'ngMessages',
   'ui.router',
   'ui.bootstrap',
-  'ui.bootstrap.datetimepicker',
   'blockUI',
-  'ngFileUpload',
   /* App */
   MOShopMain,
 ];
