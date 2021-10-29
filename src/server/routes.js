@@ -8,7 +8,6 @@ router.get('/', (req, res) => {
 });
 
 router.post('/cars', (req, res) => {
-  res.header('Access-Control-Allow-Origin', '*');
   res.send(cars);
 });
 
