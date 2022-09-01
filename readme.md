@@ -15,7 +15,6 @@ Please clone this repository as a **private** repository under your own GitHub u
 
 * In your terminal type `npm install` (from the project root)
 * This will install all the node_modules listed in package.json<br><br>
-<i>Note if you get package dependency errors due to the current package versions installed in your dev environment, try to resolve them and note down any issues you had and how you resolved them, or attempted to resolve them.</i>
 
 ## Development
 
